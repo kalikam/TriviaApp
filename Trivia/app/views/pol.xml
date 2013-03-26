@@ -1,0 +1,13 @@
+ <Alloy>
+
+<Window id="poli">
+	<View id="header">
+          <View class="divider"/>     
+        </View>
+	<!--<Label id="back"  onClick="closeWindow"></Label>-->
+    <View id="addView" onClick="closeWindow">
+                <ImageView id="addImage"/>
+         </View>
+                  
+	</Window>
+	</Alloy>
